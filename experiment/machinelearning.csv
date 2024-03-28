@@ -1,0 +1,5 @@
+,MCQ,Choices,Correct
+0,Who coined the term 'machine learning' in 1959?,"['a:Donald Hebb', 'b:Arthur Samuel', 'c:Walter Pitts', 'd:Warren McCulloch']",b
+1,Which of the following was NOT a synonym for machine learning in the 1950s?,"['a:Self-teaching computers', 'b:Cognitive systems', 'c:Artificial intelligence', 'd:Neural networks']",b
+2,What was the purpose of the 'goof' button on the Cybertron learning machine?,"['a:To allow the machine to learn from its mistakes', 'b:To reset the machine to its initial state', 'c:To provide feedback to the human operator', 'd:To prevent the machine from making incorrect decisions']",a
+3,"According to Tom M. Mitchell's definition, what is the key characteristic of a machine learning algorithm?","['a:It can perform tasks without human intervention', 'b:It improves its performance with experience', 'c:It can mimic human thought processes', 'd:It can solve any type of problem']",b
