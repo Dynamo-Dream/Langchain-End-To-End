@@ -1,0 +1,7 @@
+huggingfacehub
+langchain
+streamlit
+python-dotenv
+langchain-google-genai
+google-generativeai
+PyPDF2

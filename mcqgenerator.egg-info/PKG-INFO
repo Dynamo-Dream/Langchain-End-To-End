@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: Anish Kumar
+Author-email: theanish2002kumar@gmail.com
+Requires-Dist: huggingfacehub
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: langchain-google-genai
+Requires-Dist: google-generativeai
+Requires-Dist: PyPDF2
